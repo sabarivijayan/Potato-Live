@@ -27,6 +27,9 @@
 .footer-content-left h2, .footer-content-center h2, .footer-content-right h2{
     color: white;
 }
+.footer-content-left .logo{
+    width: 150px;
+}
 .footer-social-icons img{
     width: 40px;
 }
@@ -50,5 +53,8 @@
     }
     .footer-copyright{
         text-align: center;
+    }
+    .footer-content-left .logo{
+        width: 150px;
     }
 }
